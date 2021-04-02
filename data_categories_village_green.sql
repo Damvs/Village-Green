@@ -1,0 +1,16 @@
+INSERT INTO `categories` VALUES 
+(1,'Vents',NULL),
+(2,'Cordes',NULL),
+(3,'Percussions',NULL),
+(4,'Guitare',2),
+(5,'Violon',2),
+(6,'Violoncelle',2),
+(7,'Harpe',2),
+(8,'Piano',2),
+(9,'Trompette',1),
+(10,'Saxophone',1),
+(11,'Flûte',1),
+(12,'Harmonica',1),
+(13,'Batterie',3),
+(14,'Tambour',3),
+(15,'Xylophone',3);
